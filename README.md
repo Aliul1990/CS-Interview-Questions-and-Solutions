@@ -2,7 +2,7 @@
 Complete Solution of C#.NET
 
 ---
-### Table of Contents
+### CS Module
 
 | No. | Module of CS |
 |---- | ---------
@@ -37,13 +37,13 @@ Complete Solution of C#.NET
 
    5. MS PowerPoint
 
-  **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#cs-module)**
   
 2. ### MS SQL
 
     Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
 
-  **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#cs-module)**
 
 
 ### Table of Contents
