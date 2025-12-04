@@ -41,7 +41,14 @@ Complete Solution of C#.NET
   
 2. ### MS SQL
 
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
+    | SQL Type | Full Form                    | Purpose             | Examples               |
+| -------- | ---------------------------- | ------------------- | ---------------------- |
+| **DDL**  | Data Definition Language     | Structure creation  | CREATE, ALTER, DROP    |
+| **DML**  | Data Manipulation Language   | Work with data      | INSERT, UPDATE, DELETE |
+| **DQL**  | Data Query Language          | Query data          | SELECT                 |
+| **DCL**  | Data Control Language        | Permissions         | GRANT, REVOKE          |
+| **TCL**  | Transaction Control Language | Manage transactions | COMMIT, ROLLBACK       |
+
 
   **[⬆ Back to Top](#cs-module)**
 
