@@ -1,7 +1,17 @@
 # CS-Interview-Questions-and-Solutions
 Complete Solution of C#.NET
 
+---
 
+### Table of Contents
+
+| No. | Questions |
+|---- | ---------
+|1 | [What is Angular Framework?](#what-is-angular-framework)|
+|2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
+|3 | [What is TypeScript?](#what-is-typescript)|
+|279| [What is hydration ?](#what-is-hydration)
+|279| [](#)
 ---
 
 ### Table of Contents
