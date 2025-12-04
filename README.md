@@ -41,7 +41,7 @@ Complete Solution of C#.NET
   
 2. ### MS SQL
 
-    | SQL Type | Full Form                    | Purpose             | Examples               |
+| SQL Type | Full Form                    | Purpose             | Examples               |
 | -------- | ---------------------------- | ------------------- | ---------------------- |
 | **DDL**  | Data Definition Language     | Structure creation  | CREATE, ALTER, DROP    |
 | **DML**  | Data Manipulation Language   | Work with data      | INSERT, UPDATE, DELETE |
