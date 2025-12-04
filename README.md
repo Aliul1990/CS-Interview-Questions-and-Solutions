@@ -4,10 +4,10 @@ Complete Solution of C#.NET
 ---
 ### Table of Contents
 
-| No. | Questions |
+| No. | Module of CS |
 |---- | ---------
 |1 | [Computer Fundamental](#computer-fundamental)|
-|2 | [MS SQL](#MS SQL)|
+|2 | [MS SQL](#ms-sql)|
 |3 | [What is TypeScript?](#what-is-typescript)|
 |4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
 |5 | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
@@ -24,6 +24,12 @@ Complete Solution of C#.NET
 |16| [What is a service](#what-is-a-service)|
 ---
 1. ### Computer Fundamental
+
+    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
+
+  **[⬆ Back to Top](#table-of-contents)**
+  
+2. ### MS SQL
 
     Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
 
