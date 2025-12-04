@@ -8,7 +8,7 @@ Complete Solution of C#.NET
 |---- | ---------
 |1 | [Computer Fundamental](#computer-fundamental)|
 |2 | [MS SQL](#ms-sql)|
-|3 | [What is TypeScript?](#what-is-typescript)|
+|3 | [C# Programming Language](#C#programming-language)|
 |4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
 |5 | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
 |6 | [What are directives?](#what-are-directives)|
@@ -51,6 +51,29 @@ Complete Solution of C#.NET
 
 
   **[⬆ Back to Top](#cs-module)**
+
+3. ### C# Programming Language
+
+✅ What is C#?
+
+C# (pronounced C-Sharp) is a modern, object-oriented programming language developed by Microsoft.
+
+It runs on the .NET Platform.
+
+Used for:
+
+1. Desktop apps
+
+2. Web apps (ASP.NET Core)
+
+3. Mobile apps (Xamarin / MAUI)
+
+4. Games (Unity)
+
+5. APIs and cloud apps
+
+  **[⬆ Back to Top](#cs-module)**
+
 
 
 ### Table of Contents
