@@ -8,7 +8,7 @@ Complete Solution of C#.NET
 |---- | ---------
 |1 | [Computer Fundamental](#computer-fundamental)|
 |2 | [MS SQL](#ms-sql)|
-|3 | [C# Programming Language](#C#programming-language)|
+|3 | [CS Programming Language](#CSprogramming-language)|
 |4 | [Write a pictorial diagram of Angular architecture?](#write-a-pictorial-diagram-of-angular-architecture)|
 |5 | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
 |6 | [What are directives?](#what-are-directives)|
@@ -52,7 +52,7 @@ Complete Solution of C#.NET
 
   **[⬆ Back to Top](#cs-module)**
 
-3. ### C# Programming Language
+3. ### CS Programming Language
 
 ✅ What is C#?
 
