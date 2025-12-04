@@ -25,7 +25,12 @@ Complete Solution of C#.NET
 ---
 1. ### Computer Fundamental
 
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build web, mobile and desktop applications. The major features of this framework include declarative templates, dependency injection, end to end tooling which ease application development.
+    ✅ Computer Fundamentals — Complete Topic List
+1. Introduction to Computers
+2. MS Word
+3. MS Excle
+4. MS Access
+5. MS PowerPoint
 
   **[⬆ Back to Top](#table-of-contents)**
   
